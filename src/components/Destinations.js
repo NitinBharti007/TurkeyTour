@@ -25,6 +25,11 @@ const destinations = [
     image:
       "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/10/2f/18/kusadasi.jpg?w=1200&h=700&s=1",
   },
+  {
+    name: "Bosphorus Cruise",
+    image:
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/ef/4b/7e.jpg",
+  },
 ];
 
 const Destinations = () => {
