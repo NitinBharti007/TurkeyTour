@@ -130,7 +130,7 @@ const FeaturedPackages = () => {
       {/* Modal */}
       {selectedPackage && (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center p-4">
-          <div className="bg-white rounded-lg shadow-lg mt-16 max-w-xl w-full h-[80vh] p-6 overflow-y-scroll scrollbar-none relative">
+          <div className="bg-white rounded-lg shadow-lg mt-24 max-w-xl w-full h-[80vh] p-6 overflow-y-scroll scrollbar-none relative lg:mt-16">
             <button
               className="absolute top-3 right-4 text-gray-600 hover:text-gray-900 text-2xl"
               onClick={() => setSelectedPackage(null)}
