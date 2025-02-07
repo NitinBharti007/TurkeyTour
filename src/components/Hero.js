@@ -6,7 +6,7 @@ const Hero = () => {
       className="relative min-h-screen flex flex-col items-center justify-center text-white text-center px-4 sm:px-8"
       style={{
         backgroundImage:
-          "url('https://www.tooistanbul.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-15-at-16.19.22.png')",
+          "url('hero.png')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
